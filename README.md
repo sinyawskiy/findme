@@ -22,4 +22,7 @@ $ yarn start
 ```bash
 $ yarn build
 ```
+Screenshots
+=========
 
+![Findme settings](https://github.com/sinyawskiy/findme/blob/main/img/1.png?raw=true)
