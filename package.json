@@ -2,11 +2,12 @@
   "name": "FindMe-Settings",
   "version": "1.0.0",
   "description": "FindMe Settings",
-  "main": "index.js",
+  "homepage": "https://sinyawskiy.github.io/findme/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server -d --hot --inline --progress --colors",
-    "build": "webpack --progress --colors"
+    "build": "webpack --progress --colors",
+    "build-docs": "PUBLIC_URL=/findme/ webpack --progress --colors && cp -r static/** docs"
   },
   "repository": {
     "type": "git",

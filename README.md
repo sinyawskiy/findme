@@ -1,5 +1,8 @@
 # findme settings
 
+### Demo
+Demo [https://sinyawskiy.github.io/findme/](https://sinyawskiy.github.io/findme/)
+
 # Usage
 ## Preparation
 ```bash
